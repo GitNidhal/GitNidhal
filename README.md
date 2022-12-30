@@ -1,8 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is NIDHAL Rebhi
 ====================================================================================================================================
 
-Cyber security || Full Stack Web Development
+Cybersecurity || Full Stack Web Development
 --------------------------------------------
+<br/>
 
 I've been learning Cyber security for 5 years, after switching careers. I started code and I'am a junior Full Stack Web Development .
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
@@ -15,9 +16,7 @@ I've been learning Cyber security for 5 years, after switching careers. I starte
 * 🤝  I'm open to collaborating on interesting projects
 * 🤔&nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-
-
-
+<br/>
 
 ### Skills
 
