@@ -15,6 +15,10 @@ I've been learning Cyber security for 5 years, after switching careers. I starte
 * 🤝  I'm open to collaborating on interesting projects
 * 🤔&nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
+
+
+
+
 ### Skills
 
 
